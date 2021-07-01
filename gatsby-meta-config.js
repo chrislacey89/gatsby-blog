@@ -5,11 +5,11 @@ module.exports = {
   introduction: `👋🏻 I'm Chris! Welcome to my blog where I post about whatever I'm learning or find interesting in the world of web development.`,
   siteUrl: `https://www.chrislacey.dev/`, // Your blog site url
   social: {
-    twitter: `https://twitter.com/inflamedostrich`, // Your Twitter account
-    github: `https://github.com/chrislacey89`, // Your GitHub account
+    twitter: `inflamedostrich`, // Your Twitter account
+    github: `chrislacey89`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `https://www.linkedin.com/in/christopher-lacey-b78253118/`, // Your LinkedIn account
+    linkedin: `christopher-lacey-b78253118/`, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
   icon: `content/assets/rocket.png`, // Add your favicon
