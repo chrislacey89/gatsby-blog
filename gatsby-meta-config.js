@@ -9,7 +9,7 @@ module.exports = {
     github: `chrislacey89`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `christopher-lacey-b78253118/`, // Your LinkedIn account
+    linkedin: `christopher-lacey-b78253118`, // Your LinkedIn account
     instagram: ``, // Your Instagram account
   },
   icon: `content/assets/rocket.png`, // Add your favicon
